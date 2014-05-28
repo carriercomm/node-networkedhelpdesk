@@ -6,6 +6,12 @@
     "name": "Brian Hartvigsen",
     "email": "brian.andrew@brianandjenny.com"
   },
+  "homepage": "https://github.com/tresni/node-networkedhelpdesk",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tresni/node-networkedhelpdesk.git"
+  },
+  "main": "lib/main.js",
   "dependencies": {
     "needle": "*",
     "underscore": "*",

@@ -1,0 +1,29 @@
+{
+  "name": "networkedhelpdesk",
+  "version": "0.0.1",
+  "description": "Classes to implement parts of the Networked Helpdesk protocol",
+  "author": {
+    "name": "Brian Hartvigsen",
+    "email": "brian.andrew@brianandjenny.com"
+  },
+  "dependencies": {
+    "needle": "*",
+    "underscore": "*",
+    "uuid": ">=1.2"
+  },
+  "devDendencies": {
+    "mocha": "*"
+  },
+  "license": "MIT",
+  "jshintConfig": {
+    "laxcomma": true,
+    "quotmark": "single",
+    "curly": true,
+    "freeze": true,
+    "newcap": true,
+    "undef": true,
+    "unused": true,
+    "node": true,
+    "asi": true
+  }
+}
